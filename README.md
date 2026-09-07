@@ -1,7 +1,5 @@
 # Birthday Gift 🎂
 
-An interactive, animated birthday page you can send someone special. Lights turn on, balloons fly in, candles light up, cake gets cut, and a scrolling message plays out — all triggered by a row of buttons at the bottom.
-
 **[Live demo](https://komalmelkunde.github.io/Madhu-Birthday/)**
 
 ## Features
