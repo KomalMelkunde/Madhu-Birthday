@@ -1,15 +1,13 @@
 # Birthday Gift 🎂
 
-An interactive, animated birthday page you can send someone special. Lights turn on, balloons fly in, candles light up, cake gets cut, and a scrolling message plays out — all triggered by a row of buttons at the bottom.
-
-**[Live demo](https://bikal1000.github.io/happy-birthday-website/)**
+**[Live demo](https://komalmelkunde.github.io/Madhu-Birthday/)**
 
 ## Features
 
 - Twinkling bulb lights
 - Custom name banner and floating letter balloons
 - Animated birthday cake with flickering candles
-- Cut the Cake — candles blow out and the cake splits to reveal a slice
+- Cut the Cake : candles blow out and the cake splits to reveal a slice
 - Scrolling birthday message
 - Background music
 
